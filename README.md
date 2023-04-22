@@ -8,4 +8,5 @@
 
 
 [Mobile View]
-![iPhone-XR-XS-Max-414x896](https://user-images.githubusercontent.com/67999065/233769142-af949ae9-4c29-4289-a582-ba62733047b1.png)
+![iPhone-XR-XS-Max-414x896](https://user-images.githubusercontent.com/67999065/233769229-ceaf9aee-7037-46d4-a145-4dd4ad3eb435.png)
+
